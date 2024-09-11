@@ -1,0 +1,17 @@
+
+#form{
+    background-color: palevioletred;
+    border: 5px solid black;
+    display: inline-block;
+}
+label{
+    display: inline-block;
+    width: 100px;
+    font-size: 1.2rem;
+}
+form div{
+    margin: 10px;
+}
+#tot{
+    display: inline-block;
+}
